@@ -8,7 +8,7 @@ More information about Kline/Candlestick Data for USD-M Futures on Binance site:
 
 ## Features
 
-- **Historical Data**: Retrieve historical Kline/Candlestick data for USD-M Futures on all symbols listed in the `universe.json` file. Binance provides historical data for the entire available history.
+- **Historical Data**: Retrieve historical Kline/Candlestick data for USD-M Futures on all symbols listed in the `universe.json` file. Binance provides historical data for Kline/Candlestick for the entire available history.
 - **Real-Time Data**: Fetch live trading data for the same symbols.
 - **Data Storage**: Optionally store the fetched data in a format suitable for further analysis or processing.
 
